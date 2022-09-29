@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+}
+
+#contenu{
+    background-color:lightgray
+}
+
+
+.lien{
+    color: yellowgreen;
+}
+
+.seconde {
+    text-align: right;
+}
+.text2 {
+    font-size: 2em;
+}
+img {
+    width: 300px; 
+}
